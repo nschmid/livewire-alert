@@ -1,11 +1,11 @@
 {
-    "name": "jantinnerezo/livewire-alert",
+    "name": "nschmid/livewire-alert",
     "description": "This package provides a simple alert utilities for your livewire components.",
     "keywords": [
         "jantinnerezo",
         "livewire-alert"
     ],
-    "homepage": "https://github.com/jantinnerezo/livewire-alert",
+    "homepage": "https://github.com/nschmid/livewire-alert",
     "license": "MIT",
     "type": "library",
     "authors": [
